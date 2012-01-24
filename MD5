@@ -1,4 +1,4 @@
-8c6d183c81367ee3b40f356c51c790d7 *DESCRIPTION
+0fbd4ddb9752ea62fb442a776fab3021 *DESCRIPTION
 360f0711d5ffff53b6aabd3f5b1f4993 *LICENSE
 0370d55c89c2ffadf10e9a0f55bf91b0 *NAMESPACE
 46a85b495dfdbf9986371760ca484546 *R/CALINE3-package.R
@@ -8,4 +8,4 @@ af17a6e3883a6df0b7b7e957751198e9 *inst/tests/test.rural-curved.R
 58a32c340a4a704a30f9b81c4da07628 *inst/tests/test.urban-freeway.R
 b21c61f54bacea4c9c5e25d92e7675b7 *man/CALINE3.Rd
 129a2ff7d81b36a937fe2f0066c76dec *man/CALINE3.array.Rd
-81923aed99a309fb23208621a8aa433c *src/libcaline3.f
+c0d536d83f76b958b6a9d9982f1eb938 *src/libcaline3.f
